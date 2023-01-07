@@ -37,3 +37,11 @@ sem nada
 #### link do dttank
   um jogo que marcou minha infância
   [melhor jogo da infancia](https://ddtankbrasil.com.br/pt/ddtank/)
+ 
+ 
+ 
+ ```javascript
+   function somar(int,int2){
+      return int + int2
+   }
+ ```
