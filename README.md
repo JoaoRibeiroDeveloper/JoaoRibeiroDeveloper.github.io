@@ -24,3 +24,8 @@ sem nada
 5. 5
 6. 6
 7. 8
+
+* criar banner
+    * colocar em 5 locais
+    * ambiente aluno/ professores/ interno
+* criar boletim
