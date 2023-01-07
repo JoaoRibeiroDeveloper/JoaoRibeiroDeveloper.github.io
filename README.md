@@ -29,3 +29,6 @@ sem nada
     * colocar em 5 locais
     * ambiente aluno/ professores/ interno
 * criar boletim
+
+#### React
+  ![iamgem do react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
