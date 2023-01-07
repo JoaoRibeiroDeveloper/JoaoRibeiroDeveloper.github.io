@@ -45,3 +45,8 @@ sem nada
       return int + int2
    }
  ```
+ 
+ 
+ - [x] limpa a casa
+ - [ ] sair no domingo
+ - [x] dormir
